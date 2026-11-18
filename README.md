@@ -607,4 +607,6 @@ Vote integrity:
 
 ## License
 
-Provided as-is for your alumni community. Add your preferred license before distributing.
+Released under the [MIT License](LICENSE).
+
+Copyright (c) 2026 ejoeltech.
