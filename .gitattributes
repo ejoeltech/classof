@@ -1,0 +1,16 @@
+* text=auto
+
+*.php text
+*.css text
+*.js text
+*.md text
+*.sql text
+*.json text
+*.env.example text
+
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.gif binary
+*.pdf binary

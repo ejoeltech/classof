@@ -1,0 +1,6 @@
+Options -Indexes
+
+# Uploaded files are images only. Never execute anything here.
+<FilesMatch "\.(php|phtml|phar|php3|php4|php5|php7|php8|pl|py|cgi|sh|htaccess)$">
+    Require all denied
+</FilesMatch>
